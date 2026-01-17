@@ -1,3 +1,10 @@
+
+
+
+![Demo GIF](video.gif)
+
+
+
 **Amazon Competitor Analysis Tool**
 
 A Python-based market research tool that analyzes an **Amazon product** using its ASIN, scrapes competitor data, stores it locally, and generates AI-driven insights.
